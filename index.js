@@ -9,6 +9,7 @@ module.exports = [
   'container',
   'input',
   'link',
+  'vpagination',
   'pagination',
   'processor',
   'progress',
