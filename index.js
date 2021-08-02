@@ -1,7 +1,7 @@
 'use strict';
 Object.defineProperty(exports, '__esModule', { value: true });
 module.exports = [
-  'aggregatedata',
+  'aggregateData',
   'button',
   'calendar',
   'chart',
@@ -9,13 +9,12 @@ module.exports = [
   'container',
   'input',
   'link',
-  'vpagination',
   'pagination',
   'processor',
   'progress',
   'querybuilder',
   'radio',
-  // 'resourceMark',
+  'resourceMark',
   'richtext',
   'schedule',
   'select',
