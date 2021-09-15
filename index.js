@@ -26,4 +26,5 @@ module.exports = [
   'textarea',
   'tree',
   'upload',
+  'flow',
 ];
