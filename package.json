@@ -1,6 +1,6 @@
 {
   "name": "cls-main-component-names",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Making test editor plugin development easier",
   "main": "index.js",
   "scripts": {
